@@ -1,4 +1,4 @@
-# ImageSharpenging
+# ImageSharpening
 This displays how to use sobel sharpening contour in a image.
 
 ## Installation
